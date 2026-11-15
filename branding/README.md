@@ -1,0 +1,1 @@
+# Branding assets\n\nProject logo used by the repository README.\n
