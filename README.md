@@ -1,2 +1,1 @@
-# Klencod-Web
- A powerful web development environment for Android with an integrated code editor and Web-to-APK builder
+A powerful Android web development environment featuring an advanced code editor, live preview, visual CSS inspector, project management, and a Web-to-APK builder for creating standalone Android applications.
